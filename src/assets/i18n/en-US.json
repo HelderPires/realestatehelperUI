@@ -1,0 +1,33 @@
+{
+    "auth": {
+        "login":{
+            "header": "",
+            "message": "",
+            "button": "",
+            "error": ""
+        },
+        "expired":{
+            "header": "",
+            "message": "",
+            "button": "",
+            "error": ""
+        },
+        "reset": {
+            "header": "",
+            "message": "",
+            "button": "",
+            "error": ""
+        }
+    },
+    "main": {
+        "header": {
+            
+        },
+        "game": {
+
+        },
+        "settings": {
+
+        }
+    }
+}

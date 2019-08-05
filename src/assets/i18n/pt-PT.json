@@ -1,0 +1,24 @@
+{
+    "auth": {
+        "login":{
+
+        },
+        "expired":{
+
+        },
+        "reset": {
+
+        }
+    },
+    "main": {
+        "header": {
+
+        },
+        "game": {
+
+        },
+        "settings": {
+
+        }
+    }
+}
